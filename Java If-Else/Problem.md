@@ -2,6 +2,8 @@ In this challenge, we test your knowledge of using if-else conditional statement
 
 Wikipedia if-else flow chart
 
+<img width="332" height="324" alt="image" src="https://github.com/user-attachments/assets/cd06d150-63e9-4b0d-a581-d799931bb36b" />
+
 Source: Wikipedia
 
 Task
