@@ -35,3 +35,5 @@ Once we hit , we print the first ten terms as a single line of space-separated i
 We use , , and  to produce some series :
 
 We then print each element of our series as a single line of space-separated values.
+
+<img width="826" height="1319" alt="스크린샷 2025-11-10 23 34 39" src="https://github.com/user-attachments/assets/085ac65f-5c23-4e37-8327-28c0d1c756f0" />
