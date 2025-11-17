@@ -25,7 +25,7 @@ class Result {
         int scoreA = 0;
         int scoreB = 0;
         for (int i = 0; i < a.size(); i++) {
-            if (a.get(i).equals(b.get(i))) {
+            if (a.get(i) != b.get(i)) {
                 if (a.get(i) > b.get(i)){
                     scoreA ++;
                 } else {
